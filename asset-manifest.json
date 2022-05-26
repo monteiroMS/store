@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/store/static/css/main.93d605d2.css",
+    "main.js": "/store/static/js/main.081843d4.js",
+    "static/media/logo-mastercard.png": "/store/static/media/logo-mastercard.a40b9fec8eac44ca77f3.png",
+    "static/media/logo-elo.png": "/store/static/media/logo-elo.493d06182bf97b459210.png",
+    "static/media/logo-boleto.png": "/store/static/media/logo-boleto.a5a5d81190bfee0d4ea6.png",
+    "static/media/logo-visa.png": "/store/static/media/logo-visa.fd5b813f0f96724a994e.png",
+    "static/media/concluido.webp": "/store/static/media/concluido.019d7ec6175508e2b5aa.webp",
+    "static/media/logo-pix.webp": "/store/static/media/logo-pix.8c24f8839ca9614c863d.webp",
+    "static/media/rate4Checked.svg": "/store/static/media/rate4Checked.27b175a5ce2a929a292c8d8681d982b8.svg",
+    "static/media/rate4.svg": "/store/static/media/rate4.1adb52d1fe543893e65c.svg",
+    "index.html": "/store/index.html",
+    "static/media/rate1.svg": "/store/static/media/rate1.0307270c7052c132d19f.svg",
+    "static/media/rate1Checked.svg": "/store/static/media/rate1Checked.36da6e47dc1e474dc01c9e16ca9b29c3.svg",
+    "static/media/cartIcon.svg": "/store/static/media/cartIcon.bf761ad398aa6933ef3d83b1d0cb9e42.svg",
+    "static/media/rate2.svg": "/store/static/media/rate2.15270326eea2b93af3fd.svg",
+    "static/media/rate5.svg": "/store/static/media/rate5.7bbd2e0b8e63848a8e4c.svg",
+    "static/media/rate3.svg": "/store/static/media/rate3.05e9a534fce9828f5019.svg",
+    "static/media/rate5Checked.svg": "/store/static/media/rate5Checked.e67bafbe01c496fc157abe008551e4d0.svg",
+    "static/media/rate2Checked.svg": "/store/static/media/rate2Checked.658428406208194c88d3de97744b051f.svg",
+    "static/media/rate3Checked.svg": "/store/static/media/rate3Checked.f90bf3800d9a277c19d94035cd054512.svg",
+    "static/media/logo.svg": "/store/static/media/logo.3576de8323f31fe8fab8992a88392ed0.svg",
+    "static/media/searchIcon.svg": "/store/static/media/searchIcon.bf6a241ad74a24a5e6e937a13cb6ae81.svg",
+    "main.93d605d2.css.map": "/store/static/css/main.93d605d2.css.map",
+    "main.081843d4.js.map": "/store/static/js/main.081843d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93d605d2.css",
+    "static/js/main.081843d4.js"
+  ]
+}
