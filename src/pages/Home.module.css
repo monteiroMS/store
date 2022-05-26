@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+}
+
+.productsSection {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  max-width: 80%;
+}
+
+.productsSection div {
+  display: flex;
+  flex-direction: row;
+  max-width: 90%;
+}

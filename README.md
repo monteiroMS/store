@@ -1,70 +1,52 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Frontend Online Store
 
-## Available Scripts
+Neste projeto você criará uma versão simplificada, sem persistência no banco 
+de dados, de uma loja online, desenvolvendo em grupo suas funcionalidades de 
+acordo com demandas definidas em um quadro Kanban, em um cenário mais próximo 
+ao do mercado de trabalho. A partir dessas demandas, teremos uma aplicação 
+onde os usuários poderão:
 
-In the project directory, you can run:
+* Buscar produtos por termos e categorias a partir da API do Mercado Livre;
+* Interagir com os produtos buscados de modo a adicioná-los e removê-los de um carrinho de compras em diferentes quantidades;
+* Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações;
+* E por fim, finalizar a compra (simulada) dos itens selecionados.
 
-### `npm start`
+## Habilidades
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Nesse projeto, utilizamos:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Metodologias Ágeis;
+* Kanban
+* Scrum
+* Trabalho em utilizando Kanban ou Scrum de maneira eficaz
+* React;
+* React-router-dom;
+* Requisição à API;
+* Simulação de um banco utilizando LocalStorage;
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Initial Page Demo](/screenshots/initial-page.png?raw=true "Optional Title")
 
-### `npm run build`
+![Category Selected Demo](/screenshots/category-selected.png?raw=true "Optional Title")
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Cart Demo](/screenshots/cart.png?raw=true "Optional Title")
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Product Detail Demo](/screenshots/product-detail-01.png?raw=true "Optional Title")
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Product Detail Avaliation Demo](/screenshots/product-detail-02.png?raw=true "Optional Title")
 
-### `npm run eject`
+![Checkout Page Demo](/screenshots/checkout-page-01.png?raw=true "Optional Title")
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Checkout Page Adress and Payment Demo](/screenshots/checkout-page-02.png?raw=true "Optional Title")
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Order Confirm Demo](/screenshots/order-confirmed.png?raw=true "Optional Title")
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Autores
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [@monteiroMS](https://github.com/monteiroMS)
+- [@pand-oly](https://github.com/pand-oly)
+- [@pedropereiradev](https://github.com/pedropereiradev)
+- [@Thesamuel01](https://github.com/Thesamuel01)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
